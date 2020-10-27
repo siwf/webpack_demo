@@ -1,0 +1,11 @@
+{
+  "presets": [
+    // es6解析
+    "@babel/preset-env",
+    // 解析react语法
+    "@babel/preset-react"
+  ],
+  "plugins": [
+    "@babel/proposal-class-properties"
+  ]
+}
