@@ -1,3 +1,11 @@
 #root {
   color: red;
 }
+@font-face {
+  font-family: MSYH;
+  src: url('./assets/image/OFF.ttf');
+}
+body {
+  font-family: MSYH;
+  display: flex;
+}

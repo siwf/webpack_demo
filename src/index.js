@@ -7,7 +7,7 @@ import logo from './assets/image/404.png'
 
 class Search extends React.Component {
   render() {
-    return <div><img src={ logo } /></div>
+    return <div> 不知道aaa <img src={ logo } /></div>
   }
 }
 ReactDom.render(
